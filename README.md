@@ -1,6 +1,8 @@
 ## Hola, me llamo Dani
 
-(.\3dgifmaker19723.gif")
+<p align="left" style="display: flex; align-items: center;">
+  <img src="./3dgifmaker19723.gif" width="200" style="margin-right: 15px;">
+  <span style="font-size: 2em;">
 
 Actualmente estoy estudiando **Desarrollo de Aplicaciones Web (DAW)** en 1º,
 tras haber terminado el ciclo de **Sistemas Microinformáticos y Rede (SMR).
@@ -27,5 +29,6 @@ Quiero crecer como desarrollador y trabajar en proyectos importantes y que aport
 
 ---
 
-Este mi correo electrónico de contacto: 
+Este mi correo electrónico de contacto: dsanbue0806@educaand.es
+
 Si no, siempre me encontrarán aquí.
