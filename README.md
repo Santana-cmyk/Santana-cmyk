@@ -10,7 +10,7 @@ tras haber terminado el ciclo de **Sistemas Microinformáticos y Rede (SMR).
 Me gusta mucho el mundo de la informática, el desarrollo y la tecnología, y quiero dedicarme a :
 - Desarrollo web
 - Mejorar mis habilidades en *Bases de datos*.
-- Creación de aplicaciones modernas y escalables.
+- Creación de aplicaciones
 
 ---
 
