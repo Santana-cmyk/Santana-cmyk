@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hola, me llamo Dani
 
-<!--
-**Santana-cmyk/Santana-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente estoy estudiando **Desarrollo de Aplicaciones Web (DAW)** en 1º,
+tras haber terminado el ciclo de **Sistemas Microinformáticos y Rede (SMR).
 
-Here are some ideas to get you started:
+Me gusta mucho el mundo de la informática, el desarrollo y la tecnología, y quiero dedicarme a :
+- Desarrollo web
+- Mejorar mis habilidades en *Bases de datos*.
+- Creación de aplicaciones modernas y escalables.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Estoy aprendiendo...
+
+- HTML, CSS, JavaScript
+- Java y MySQL
+- Github
+
+---
+
+## Meta a largo plazo
+
+Quiero crecer como desarrollador y trabajar en proyectos importantes y que aporten valor, ya que siempre me ha gustado crear.
+
+
+---
+
+Este mi correo electrónico de contacto: 
+Si no, siempre me encontrarán aquí.
