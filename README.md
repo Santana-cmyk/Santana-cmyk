@@ -1,5 +1,7 @@
 ## Hola, me llamo Dani
 
+(.\3dgifmaker19723.gif")
+
 Actualmente estoy estudiando **Desarrollo de Aplicaciones Web (DAW)** en 1º,
 tras haber terminado el ciclo de **Sistemas Microinformáticos y Rede (SMR).
 
