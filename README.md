@@ -5,7 +5,7 @@
   <span style="font-size: 2em;">
 
 Actualmente estoy estudiando **Desarrollo de Aplicaciones Web (DAW)** en 1º,
-tras haber terminado el ciclo de **Sistemas Microinformáticos y Rede (SMR).
+tras haber terminado el ciclo de **Sistemas Microinformáticos y Redes (SMR)**.
 
 Me gusta mucho el mundo de la informática, el desarrollo y la tecnología, y quiero dedicarme a :
 - Desarrollo web
