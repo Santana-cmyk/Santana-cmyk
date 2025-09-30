@@ -19,11 +19,18 @@ Me gusta mucho el mundo de la informática, el desarrollo y la tecnología, y qu
 
 - HTML, CSS, JavaScript
   <p align="left" style="display: flex; align-items: center;">
-  <img src="./html.gif" width="500" style="margin-right: 15px;">
+  <img src="./html.gif" width="100" style="margin-right: 15px;">
   <span style="font-size: 2em;">
   
 - Java y MySQL
+  <p align="left" style="display: flex; align-items: center;">
+  <img src="./java.gif" width="100" style="margin-right: 15px;">
+  <span style="font-size: 2em;">
+  
 - Github
+  <p align="left" style="display: flex; align-items: center;">
+  <img src="./octocat.gif" width="100" style="margin-right: 15px;">
+  <span style="font-size: 2em;">
 
 ---
 
