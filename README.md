@@ -18,6 +18,10 @@ Me gusta mucho el mundo de la informática, el desarrollo y la tecnología, y qu
 ## Estoy aprendiendo...
 
 - HTML, CSS, JavaScript
+  <p align="left" style="display: flex; align-items: center;">
+  <img src="./html.gif" width="500" style="margin-right: 15px;">
+  <span style="font-size: 2em;">
+  
 - Java y MySQL
 - Github
 
