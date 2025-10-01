@@ -18,7 +18,7 @@ Me gusta mucho el mundo de la informática, el desarrollo y la tecnología, y qu
 ## Estoy aprendiendo...
 
 - HTML, CSS, JavaScript
-  <p align="left">
+<p align="left">
   <img src="./html.gif" width="150"/>
   <img src="./css.gif" width="100"/>
   <img src="./js.gif" width="100"/>
@@ -26,16 +26,16 @@ Me gusta mucho el mundo de la informática, el desarrollo y la tecnología, y qu
 
   
 - Java y MySQL
-  <p align="left">
-  <img src="./java.gif" width="150"/>
-  <img src="./mysql.gif" width="100"/>
+<p align="left">
+  <img src="./java.gif" width="100"/>
+  <img src="./sql.gif" width="100"/>
 </p>
 
   
 - Github
-  <p align="left" style="display: flex; align-items: center;">
-  <img src="./octocat.gif" width="100" style="margin-right: 15px;">
-  <span style="font-size: 2em;">
+<p align="left">
+  <img src="./octocat.gif" width="100"/>
+</p>
 
 ---
 
