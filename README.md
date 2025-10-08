@@ -55,6 +55,6 @@ Quiero crecer como desarrollador y trabajar en proyectos importantes y que aport
  
 ---
 
-Este mi correo electrónico de contacto: dsanbue0806@educaand.es
+Este mi correo electrónico de contacto: indirana916@outlook.es
 
 Si no, siempre me encontrarán aquí.
