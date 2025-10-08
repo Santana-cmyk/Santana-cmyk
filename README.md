@@ -43,7 +43,13 @@ Me gusta mucho el mundo de la informática, el desarrollo y la tecnología, y qu
 
 Quiero crecer como desarrollador y trabajar en proyectos importantes y que aporten valor, ya que siempre me ha gustado crear.
 
+ imagen > < fuente media = "(prefiere esquema de color: oscuro)" srcset = "https://raw.githubusercontent.com/[Santana-cmyk]/[Santana-cmyk]/output/pacman-contribution-graph-dark.svg" > < fuente media = "(prefiere esquema de color: claro)" srcset = " https://raw.githubusercontent.com/[Santana-cmyk]/[Santana-cmyk]/output/pacman-contribution-graph.svg" > < img alt = "gráfico de contribución de pacman" src = "https://raw.githubusercontent.com/[Santana-cmyk]/[Santana-cmyk]/output/pacman-contribution-graph.svg" > </ imagen >
+    
+    
+    
 
+
+_generado con [ abozanona/pacman-contribution-graph ]( https://abozanona.github.io/pacman-contribution-graph/ )_
 ---
 
 Este mi correo electrónico de contacto: dsanbue0806@educaand.es
