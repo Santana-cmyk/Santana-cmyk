@@ -4,6 +4,14 @@
   <img src="./develop.gif" width="500" style="margin-right: 15px;">
   <span style="font-size: 2em;">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[Santana-cmyk]/[Santana-cmyk]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[Santana-cmyk]/[Santana-cmyk]/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/[Santana-cmyk]/[Santana-cmyk]/output/pacman-contribution-graph.svg">
+</picture>
+
+_Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+
 Actualmente estoy estudiando **Desarrollo de Aplicaciones Web (DAW)** en 1º,
 tras haber terminado el ciclo de **Sistemas Microinformáticos y Redes (SMR)**.
 
@@ -38,6 +46,7 @@ Me gusta mucho el mundo de la informática, el desarrollo y la tecnología, y qu
 </p>
 
 ---
+
 
 ## Meta a largo plazo
 
