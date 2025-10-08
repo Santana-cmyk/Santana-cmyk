@@ -11,7 +11,6 @@
 </picture>
 
 
-_Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 Actualmente estoy estudiando **Desarrollo de Aplicaciones Web (DAW)** en 1º,
 tras haber terminado el ciclo de **Sistemas Microinformáticos y Redes (SMR)**.
