@@ -4,15 +4,14 @@
 
 <img width="100%" height="100" alt="image" src="https://www.pngmart.com/files/23/Red-Line-PNG-Photos.png" />
 
+## About me
 I am currently studying Web Application Development (DAW) in 1st grade, after having finished the cycle Microcomputer Systems and Networks (SMR).
 
 I really like the world of computing, development and technology, and I want to dedicate myself to:
 
-<ul>
-  <li>Web development</li>
-  <li>Databases</li>
-  <li>AI</li>
-</ul> 
+* Web Development
+* Databases
+* AI
 
 <img width="100%" height="100" alt="image" src="https://www.pngmart.com/files/23/Red-Line-PNG-Photos.png" />
 
