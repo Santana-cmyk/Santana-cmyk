@@ -1,9 +1,8 @@
 ## Hello, im Daniel.
 
-![Yo](https://giffiles.alphacoders.com/916/91683.gif)
+<img width="100%" height="30%" alt="image" src="https://giffiles.alphacoders.com/916/91683.gif" />
 
 <img width="100%" height="100" alt="image" src="https://github.com/user-attachments/assets/e665bd8a-2c9b-49ef-87e3-315244ad31f0" />
-
 
 I am currently studying Web Application Development (DAW) in 1st grade, after having finished the cycle Microcomputer Systems and Networks (SMR).
 
