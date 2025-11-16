@@ -44,8 +44,6 @@ I want to grow as a developer and work on important projects that add value, sin
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">&nbsp; 
 <a href="https://www.instagram.com/indirana916/" target="blank">
 <img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">&nbsp; 
-<a href="https://myanimelist.net/profile/Santana-cmyk" target="blank">
-<img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"> &nbsp;
 <a href="https://www.reddit.com/user/Mxumwo/" target="blank">
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">&nbsp; 
 <a href="https://x.com/chacal76esp" target="blank">
