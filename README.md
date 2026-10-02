@@ -1,4 +1,4 @@
-![Developer Banner 7](https://ishan-rest.vercel.app/svg/banner/dev7/Daniel/description)
+![Developer Banner 4](https://ishan-rest.vercel.app/svg/banner/dev4/Daniel)
 
 <p align="center">
   <img
@@ -128,7 +128,7 @@ Artificial Intelligence
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=aede5b&center=true&vCenter=true&width=650&lines=Learning+%7C+Building+%7C+Improving"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=8cd411&center=true&vCenter=true&width=650&lines=Learning+%7C+Building+%7C+Improving"
     alt="Learning animation"
   />
 </p>
@@ -151,7 +151,7 @@ Artificial Intelligence
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=700&color=aede5b&center=true&vCenter=true&width=700&lines=My+Developer+Journey;One+Step+At+A+Time"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=700&color=8cd411&center=true&vCenter=true&width=700&lines=My+Developer+Journey;One+Step+At+A+Time"
     alt="Roadmap animation"
   />
 </p>
@@ -173,7 +173,7 @@ SMR
  ▼
 Coming soon...
 ```
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=700&color=00C6FF&center=true&vCenter=true&width=700&lines=GitHub+Activity;Code+%7C+Commits+%7C+Projects;Building+%26+Learning+Every+Day" alt="GitHub activity animation" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=700&color=8cd411&center=true&vCenter=true&width=700&lines=GitHub+Activity;Code+%7C+Commits+%7C+Projects;Building+%26+Learning+Every+Day" alt="GitHub activity animation" /> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Santana-cmyk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=aede5b&icon_color=aede5b&text_color=FFFFFF&include_all_commits=true&rank_icon=github" width="520" alt="GitHub Statistics" /> </p>
 
@@ -185,4 +185,4 @@ Coming soon...
 
 </p> <p align="center"> <strong>Learning. Building. Improving.</strong> </p> <p align="center"> <a href="https://github.com/Santana-cmyk"> <img src="https://img.shields.io/badge/GitHub-Santana--cmyk-00C6FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a>
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:aede5b,50:aede5b,100:aede5b&height=160&section=footer&animation=fadeIn" width="100%" alt="Footer" /> </p> ```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8cd411,50:aede5b,100:aede5b&height=160&section=footer&animation=fadeIn" width="100%" alt="Footer" /> </p> ```
