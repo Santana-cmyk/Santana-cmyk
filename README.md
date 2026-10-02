@@ -1,21 +1,15 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:91e81e,50:0072FF,100:001F3F&height=240&section=header&text=DANIEL&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Welcome+to+my+Profile&descSize=20&descColor=FFFFFF&descAlignY=65"
-    width="100%"
-    alt="Daniel Header"
-  />
-</p>
+![Developer Banner 7](https://ishan-rest.vercel.app/svg/banner/dev7/Daniel/description)
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=800&color=00C6FF&center=true&vCenter=true&width=750&lines=Web+Application+Developer;2nd+Year+DAW+Student;Always+Learning+%26+Building"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=800&color=aede5b&center=true&vCenter=true&width=750&lines=Web+Application+Developer;2nd+Year+DAW+Student;Always+Learning+%26+Building"
     alt="Typing animation"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=Santana-cmyk&style=for-the-badge&color=0072FF&label=PROFILE+VIEWS"
+    src="https://komarev.com/ghpvc/?username=Santana-cmyk&style=for-the-badge&color=aede5b&label=PROFILE+VIEWS"
     alt="Profile views"
   />
 </p>
@@ -134,7 +128,7 @@ Artificial Intelligence
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=00C6FF&center=true&vCenter=true&width=650&lines=Learning+%7C+Building+%7C+Improving"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=aede5b&center=true&vCenter=true&width=650&lines=Learning+%7C+Building+%7C+Improving"
     alt="Learning animation"
   />
 </p>
@@ -157,7 +151,7 @@ Artificial Intelligence
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=700&color=00C6FF&center=true&vCenter=true&width=700&lines=My+Developer+Journey;One+Step+At+A+Time"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=700&color=aede5b&center=true&vCenter=true&width=700&lines=My+Developer+Journey;One+Step+At+A+Time"
     alt="Roadmap animation"
   />
 </p>
@@ -181,12 +175,14 @@ Coming soon...
 ```
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=700&color=00C6FF&center=true&vCenter=true&width=700&lines=GitHub+Activity;Code+%7C+Commits+%7C+Projects;Building+%26+Learning+Every+Day" alt="GitHub activity animation" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Santana-cmyk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=0072FF&text_color=FFFFFF&include_all_commits=true&rank_icon=github" width="520" alt="GitHub Statistics" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Santana-cmyk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=aede5b&icon_color=aede5b&text_color=FFFFFF&include_all_commits=true&rank_icon=github" width="520" alt="GitHub Statistics" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santana-cmyk&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=FFFFFF&langs_count=6" width="430" alt="Most Used Languages" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santana-cmyk&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=aede5b&text_color=FFFFFF&langs_count=6" width="430" alt="Most Used Languages" /> </p>
 
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=Santana-cmyk&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=0072FF&currStreakLabel=00C6FF&sideLabels=00C6FF&sideNums=FFFFFF&currStreakNum=FFFFFF" width="700" alt="GitHub Contribution Streak" /> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=Santana-cmyk&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=0072FF&currStreakLabel=00C6FF&sideLabels=aede5b&sideNums=FFFFFF&currStreakNum=FFFFFF" width="700" alt="GitHub Contribution Streak" /> </p>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile;See+you+in+the+next+commit;Keep+learning+%7C+Keep+building" alt="Footer animation" /> </p> <p align="center"> <strong>Learning. Building. Improving.</strong> </p> <p align="center"> <a href="https://github.com/Santana-cmyk"> <img src="https://img.shields.io/badge/GitHub-Santana--cmyk-00C6FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=aede5b&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile;See+you+in+the+next+commit;Keep+learning+%7C+Keep+building" alt="Footer animation" />
+
+</p> <p align="center"> <strong>Learning. Building. Improving.</strong> </p> <p align="center"> <a href="https://github.com/Santana-cmyk"> <img src="https://img.shields.io/badge/GitHub-Santana--cmyk-00C6FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a>
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:91e81e,50:0072FF,100:00C6FF&height=160&section=footer&animation=fadeIn" width="100%" alt="Footer" /> </p> ```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:aede5b,50:aede5b,100:aede5b&height=160&section=footer&animation=fadeIn" width="100%" alt="Footer" /> </p> ```
