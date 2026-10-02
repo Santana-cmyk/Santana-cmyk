@@ -1,43 +1,143 @@
-# Hello, im Daniel.
+<!-- ========================= HEADER ========================= -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Daniel&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" alt="Header">
+</p>
 
-<img width="100%" height="100" alt="image" src="https://www.pngmart.com/files/23/Red-Line-PNG-Photos.png" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Web+Application+Developer;2nd+Year+DAW+Student;Full+Stack+Developer+in+Progress;Always+Learning+%26+Building" alt="Typing animation">
+</p>
 
-## About me
-I am currently studying Web Application Development (DAW) in the 1st grade, after having finished the cycle Microcomputer Systems and Networks (SMR).
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Santana-cmyk&style=for-the-badge&color=0072FF&label=PROFILE+VIEWS" alt="Profile views">
+</p>
 
-I really like the world of computing, development and technology, and I want to dedicate myself to:
+---
 
-* Web Development
-* Databases
-* AI
+# 01 — About Me
 
-<img width="100%" height="100" alt="image" src="https://www.pngmart.com/files/23/Red-Line-PNG-Photos.png" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Developer coding">
+</p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Im learning...</b>
+I'm **Daniel**, a **2nd-year Web Application Development (DAW) student**.
 
-<br>
+Before DAW, I completed **Microcomputer Systems and Networks (SMR)**, where I developed my foundations in computing, systems and hardware.
 
-<img width="100" height="100" alt="JavaScript" title="JavaScript" src="https://github.com/user-attachments/assets/38adbf74-cdf0-4166-aa52-535ac9bb9944" /><img width="100" height="100" alt="image" title="HTML" src="https://github.com/user-attachments/assets/a5c5cdf8-1baf-49b2-9b8f-3201443200f3" /><img width="100" height="100" alt="image" title="CSS" src="https://github.com/user-attachments/assets/4297c7ab-1ddd-4dbc-bdb4-5bc336f7652d" /> <img width="100" height="100" alt="image" title="Java" src="https://github.com/user-attachments/assets/2bc65250-c25e-495a-9d01-c847fcddab0d" />  <img width="100" height="100" alt="image" title="Github" src="https://github.com/user-attachments/assets/51bc3d17-1f62-46fa-9a44-8179bd63ebe9"><img width="100" height="100" alt="image" title="SQL" src="https://github.com/user-attachments/assets/90ade44e-6e60-491c-b704-dc90ab4de252" />
+Currently, I'm focused on improving my programming skills and building projects that allow me to put what I learn into practice.
 
+### Main Interests
 
-<img width="100%" height="100" alt="image" src="https://www.pngmart.com/files/23/Red-Line-PNG-Photos.png" />
+| Area | Focus |
+| :--- | :--- |
+| Web Development | Frontend & Backend |
+| Programming | JavaScript, Java, PHP & Python |
+| Databases | SQL & Database Design |
+| Artificial Intelligence | Exploring AI & Python |
+| Software Development | Building real projects |
 
-## Applications I use
-[![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/es/download/)&nbsp;[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/template)&nbsp;  [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199229631192/)&nbsp;[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) &nbsp; [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://eclipseide.org/)&nbsp; [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/8japsg97pfa8mlkmd1xvbvicf) &nbsp; [![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://es.libreoffice.org/)&nbsp; [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/es)&nbsp; [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)&nbsp; [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+---
 
-<img width="100%" height="100" alt="image" src="https://www.pngmart.com/files/23/Red-Line-PNG-Photos.png" />
+# 02 — Technologies
 
-## Long term goal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github&theme=dark" width="600" alt="Technologies">
+</p>
 
-I want to grow as a developer and work on important projects that add value, since I have always liked to create.
- 
-<img width="100%" height="100" alt="image" src="https://www.pngmart.com/files/23/Red-Line-PNG-Photos.png" />
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-00C6FF?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-0072FF?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-00C6FF?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-0072FF?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00C6FF?style=for-the-badge&logo=mysql&logoColor=black">
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-0072FF?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-00C6FF?style=for-the-badge&logo=github&logoColor=black">
+</p>
 
+> Technologies I have already worked with and continue improving through projects and coursework.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santana-cmyk/Santana-cmyk/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Santana-cmyk/Santana-cmyk/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Santana-cmyk/Santana-cmyk/output/pacman-contribution-graph.svg">
-</picture>
+---
+
+# 03 — Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,php,python&theme=dark" width="400" alt="Currently learning">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Programming animation">
+</p>
+
+### 01. JavaScript
+
+Currently improving:
+
+- DOM manipulation
+- Events
+- Functions
+- Modern JavaScript
+- Asynchronous programming
+- APIs
+- Frontend development
+
+### 02. PHP
+
+Currently exploring:
+
+- Server-side programming
+- Forms and sessions
+- Database integration
+- Backend architecture
+- Web applications
+
+### 03. Python
+
+Currently learning:
+
+- Programming fundamentals
+- Automation
+- Data manipulation
+- APIs
+- Artificial Intelligence
+
+---
+
+# 04 — Development Environment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github&theme=dark" width="400" alt="Development tools">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0072FF?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-00C6FF?style=for-the-badge&logo=eclipse&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-0072FF?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-00C6FF?style=for-the-badge&logo=github&logoColor=black">
+</p>
+
+---
+
+# 05 — My Roadmap
+
+```text
+SMR
+ │
+ ▼
+Computer Systems & Networks
+ │
+ ▼
+1st DAW
+ │
+ ▼
+2nd DAW
+ │
+ ├── JavaScript
+ ├── PHP
+ ├── Python
+ └── Databases
+ │
+ ▼
+Artificial Intelligence
