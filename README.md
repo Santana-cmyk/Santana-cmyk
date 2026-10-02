@@ -1,132 +1,169 @@
-<!-- ========================= HEADER ========================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Daniel&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" alt="Header">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:91e81e,50:0072FF,100:001F3F&height=240&section=header&text=DANIEL&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Welcome+to+my+Profile&descSize=20&descColor=FFFFFF&descAlignY=65"
+    width="100%"
+    alt="Daniel Header"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Web+Application+Developer;2nd+Year+DAW+Student;Full+Stack+Developer+in+Progress;Always+Learning+%26+Building" alt="Typing animation">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=800&color=00C6FF&center=true&vCenter=true&width=750&lines=Web+Application+Developer;2nd+Year+DAW+Student;Full+Stack+Developer+in+Progress;Always+Learning+%26+Building"
+    alt="Typing animation"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Santana-cmyk&style=for-the-badge&color=0072FF&label=PROFILE+VIEWS" alt="Profile views">
+  <img
+    src="https://komarev.com/ghpvc/?username=Santana-cmyk&style=for-the-badge&color=0072FF&label=PROFILE+VIEWS"
+    alt="Profile views"
+  />
 </p>
 
 ---
 
-# 01 — About Me
+# About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Developer coding">
-</p>
+<table>
+<tr>
 
-I'm **Daniel**, a **2nd-year Web Application Development (DAW) student**.
+<td width="58%" valign="middle">
 
-Before DAW, I completed **Microcomputer Systems and Networks (SMR)**, where I developed my foundations in computing, systems and hardware.
+Hi! I'm **Daniel**, a **2nd-year Web Application Development (DAW) student**.
 
-Currently, I'm focused on improving my programming skills and building projects that allow me to put what I learn into practice.
+Before DAW, I completed **Microcomputer Systems and Networks (SMR)**, where I developed my foundations in computer systems, networks, hardware and operating systems.
 
-### Main Interests
+Currently, I'm focused on improving my programming skills, building projects and exploring new technologies.
 
-| Area | Focus |
-| :--- | :--- |
-| Web Development | Frontend & Backend |
-| Programming | JavaScript, Java, PHP & Python |
-| Databases | SQL & Database Design |
-| Artificial Intelligence | Exploring AI & Python |
-| Software Development | Building real projects |
+### Interests
 
----
-
-# 02 — Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github&theme=dark" width="600" alt="Technologies">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-00C6FF?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-0072FF?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-00C6FF?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-0072FF?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00C6FF?style=for-the-badge&logo=mysql&logoColor=black">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-0072FF?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-00C6FF?style=for-the-badge&logo=github&logoColor=black">
-</p>
-
-> Technologies I have already worked with and continue improving through projects and coursework.
-
----
-
-# 03 — Currently Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,php,python&theme=dark" width="400" alt="Currently learning">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Programming animation">
-</p>
-
-### 01. JavaScript
-
-Currently improving:
-
-- DOM manipulation
-- Events
-- Functions
-- Modern JavaScript
-- Asynchronous programming
-- APIs
-- Frontend development
-
-### 02. PHP
-
-Currently exploring:
-
-- Server-side programming
-- Forms and sessions
-- Database integration
-- Backend architecture
-- Web applications
-
-### 03. Python
-
-Currently learning:
-
-- Programming fundamentals
-- Automation
-- Data manipulation
-- APIs
+- Web Development
+- Backend Development
+- Databases
 - Artificial Intelligence
+- Software Development
+
+</td>
+
+<td width="42%" align="center">
+
+<img
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  width="400"
+  alt="Coding animation"
+/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 04 — Development Environment
+# Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github&theme=dark" width="400" alt="Development tools">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0072FF?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Eclipse-00C6FF?style=for-the-badge&logo=eclipse&logoColor=black">
-  <img src="https://img.shields.io/badge/Git-0072FF?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-00C6FF?style=for-the-badge&logo=github&logoColor=black">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github&theme=dark"
+    width="720"
+    alt="Technologies"
+  />
 </p>
 
 ---
 
-# 05 — My Roadmap
+# Currently Learning
+
+I'm currently expanding my knowledge in **JavaScript, PHP and Python** during my 2nd-year DAW studies.
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=javascript,php,python&theme=dark"
+    width="520"
+    alt="Currently learning"
+  />
+</p>
+
+<table align="center">
+<tr>
+
+<td width="33%" align="center">
+
+### JavaScript
+
+DOM & Events
+
+Async Programming
+
+APIs
+
+Modern JavaScript
+
+</td>
+
+<td width="33%" align="center">
+
+### PHP
+
+Backend Development
+
+Forms & Sessions
+
+Database Integration
+
+Server-side Applications
+
+</td>
+
+<td width="33%" align="center">
+
+### Python
+
+Programming
+
+Automation
+
+APIs
+
+Artificial Intelligence
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=00C6FF&center=true&vCenter=true&width=650&lines=Learning+%7C+Building+%7C+Improving"
+    alt="Learning animation"
+  />
+</p>
+
+---
+
+# Development Environment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="110" alt="Visual Studio Code" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=eclipse&theme=dark" width="110" alt="Eclipse" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="110" alt="Git" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="110" alt="GitHub" />
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=700&color=00C6FF&center=true&vCenter=true&width=700&lines=My+Developer+Journey;One+Step+At+A+Time"
+    alt="Roadmap animation"
+  />
+</p>
 
 ```text
 SMR
- │
- ▼
-Computer Systems & Networks
  │
  ▼
 1st DAW
@@ -140,4 +177,16 @@ Computer Systems & Networks
  └── Databases
  │
  ▼
-Artificial Intelligence
+Coming soon...
+```
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=700&color=00C6FF&center=true&vCenter=true&width=700&lines=GitHub+Activity;Code+%7C+Commits+%7C+Projects;Building+%26+Learning+Every+Day" alt="GitHub activity animation" /> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Santana-cmyk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=0072FF&text_color=FFFFFF&include_all_commits=true&rank_icon=github" width="520" alt="GitHub Statistics" /> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santana-cmyk&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=FFFFFF&langs_count=6" width="430" alt="Most Used Languages" /> </p>
+
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=Santana-cmyk&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=0072FF&currStreakLabel=00C6FF&sideLabels=00C6FF&sideNums=FFFFFF&currStreakNum=FFFFFF" width="700" alt="GitHub Contribution Streak" /> </p>
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile;See+you+in+the+next+commit;Keep+learning+%7C+Keep+building" alt="Footer animation" /> </p> <p align="center"> <strong>Learning. Building. Improving.</strong> </p> <p align="center"> <a href="https://github.com/Santana-cmyk"> <img src="https://img.shields.io/badge/GitHub-Santana--cmyk-00C6FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a>
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:91e81e,50:0072FF,100:00C6FF&height=160&section=footer&animation=fadeIn" width="100%" alt="Footer" /> </p> ```
